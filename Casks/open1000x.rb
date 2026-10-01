@@ -1,6 +1,6 @@
 cask "open1000x" do
-  version "0.1.0"
-  sha256 "5d8b13432149c8fb562bb009d02360a644c86842fd038319d3a9d44b848ea5e5"
+  version "0.1.1"
+  sha256 "9b5d7e6edc981c51f526a0a6395aaaae8cf42df58cd16d09a348f6b7de086cdd"
 
   url "https://github.com/gergogyulai/open1000x/releases/download/v#{version}/Open1000X-#{version}.zip"
   name "Open1000X"
