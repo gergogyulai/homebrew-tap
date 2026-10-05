@@ -1,6 +1,6 @@
 cask "mckeyfix" do
-  version "1.0.0"
-  sha256 "26af5e3682fe3090f6fb36c8ceb115c3f1a8a4ae5751b087860769b49ce0c98b"
+  version "1.0.1"
+  sha256 "c443f7a02c857af9d8b1de5984cd977ab410c2ecffa01f0e84f301b22603a314"
 
   url "https://github.com/gergogyulai/mckeyfix/releases/download/v#{version}/MCKeyFix-#{version}.zip"
   name "MCKeyFix"
